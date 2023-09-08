@@ -1,0 +1,33 @@
+/*This is comment*/
+/*body{
+    background-color: plum ;
+
+}*/
+.border{
+    border-style: solid;
+    border-width: 5px;
+    border-color: aqua;
+    border-radius: 20px;
+    padding: 5px;
+    color: blue;
+    text-align: center;
+}
+img{
+    vertical-align: text-bottom;
+}
+.deco{
+    text-decoration: line-through;
+    text-transform: uppercase;
+    text-indent: 80px;
+    letter-spacing: 3px;
+    line-height: 20px;
+    word-spacing: 2px;
+    text-shadow: 2px 3px 5px red;
+}
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: 700;
+    font-variant: normal;
+    font-size: 5vw;
+}

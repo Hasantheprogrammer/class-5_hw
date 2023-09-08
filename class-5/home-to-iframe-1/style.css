@@ -1,0 +1,21 @@
+#center{
+    text-align: center;
+}
+a{
+    color: darkmagenta;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: darkmagenta;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }  
+  iframe{
+    border: none;
+  }

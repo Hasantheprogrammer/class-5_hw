@@ -1,0 +1,59 @@
+#check{
+    accent-color: pink;
+}
+#c{
+    accent-color: purple;
+}
+.p{
+    text-align: center;
+}
+/*.ar{
+    width: 200px;
+    background-color: blueviolet;
+    aspect-ratio: 3/2;
+}*/
+body{
+    background: url(images/Origami\ Wind\ Small\ Fresh\ Simple\ Flat\ Geometric\ Background\ Poster\ Wallpaper\ Image\ For\ Free\ Download\ -\ Pngtree.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg {
+    width: 500px;
+    height: 500px;
+
+    margin: auto;
+    border: solid black 1px;
+    background-image: url('images/スカイライン.jfif');
+    background-repeat: no-repeat;
+    background-position-y: center;
+    cursor: all-scroll;
+}
+.bs{
+    block-size: 2px;
+}
+.bb{
+    border-block: 10px solid blue;
+    border-block-end-color: brown;
+    border-block-end-style: dotted;
+
+}
+.bbb{
+    border-bottom: 10px solid pink;
+    border-bottom-left-radius: 20px;
+
+}
+.bl{
+    border-left: 20px;
+    border-left-color: red ;
+    letter-spacing: 5px;
+    line-height:50px;
+}
+.li{
+    list-style-type: circle;
+}
+.sq{
+    list-style-type: square;
+}
+.mg{
+    margin-left: 200px;
+}
